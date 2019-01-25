@@ -1,0 +1,1581 @@
+Month_of_Price,County,Fuel,Price,PhysicalUnit
+01/01/2006 12:00:00 AM,US,Gasoline - Regular,2.314,Dollars
+01/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.457,Dollars
+01/01/2006 12:00:00 AM,US,Gasoline - Premium,2.546,Dollars
+01/01/2006 12:00:00 AM,US,Diesel,2.568,Dollars
+01/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.8,Dollars
+01/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.961,Dollars
+01/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.016,Dollars
+01/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.271,Dollars
+01/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,2.714,Dollars
+01/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.87,Dollars
+01/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,2.924,Dollars
+01/01/2006 12:00:00 AM,Honolulu,Diesel,3.25,Dollars
+01/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.057,Dollars
+01/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.233,Dollars
+01/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.293,Dollars
+01/01/2006 12:00:00 AM,Wailuku,Diesel,3.475,Dollars
+01/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,2.856,Dollars
+01/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.02,Dollars
+01/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.076,Dollars
+01/01/2006 12:00:00 AM,Hilo,Diesel,3.088,Dollars
+02/01/2006 12:00:00 AM,US,Gasoline - Regular,2.285,Dollars
+02/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.427,Dollars
+02/01/2006 12:00:00 AM,US,Gasoline - Premium,2.515,Dollars
+02/01/2006 12:00:00 AM,US,Diesel,2.568,Dollars
+02/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.827,Dollars
+02/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.989,Dollars
+02/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.045,Dollars
+02/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.264,Dollars
+02/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,2.752,Dollars
+02/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.91,Dollars
+02/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,2.964,Dollars
+02/01/2006 12:00:00 AM,Honolulu,Diesel,3.231,Dollars
+02/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.055,Dollars
+02/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.231,Dollars
+02/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.292,Dollars
+02/01/2006 12:00:00 AM,Wailuku,Diesel,3.481,Dollars
+02/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,2.89,Dollars
+02/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.056,Dollars
+02/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.113,Dollars
+02/01/2006 12:00:00 AM,Hilo,Diesel,3.072,Dollars
+03/01/2006 12:00:00 AM,US,Gasoline - Regular,2.418,Dollars
+03/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.567,Dollars
+03/01/2006 12:00:00 AM,US,Gasoline - Premium,2.66,Dollars
+03/01/2006 12:00:00 AM,US,Diesel,2.629,Dollars
+03/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.801,Dollars
+03/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.962,Dollars
+03/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.018,Dollars
+03/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.277,Dollars
+03/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,2.724,Dollars
+03/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.881,Dollars
+03/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,2.934,Dollars
+03/01/2006 12:00:00 AM,Honolulu,Diesel,3.236,Dollars
+03/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.03,Dollars
+03/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.204,Dollars
+03/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.264,Dollars
+03/01/2006 12:00:00 AM,Wailuku,Diesel,3.508,Dollars
+03/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,2.834,Dollars
+03/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,2.997,Dollars
+03/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.053,Dollars
+03/01/2006 12:00:00 AM,Hilo,Diesel,3.097,Dollars
+04/01/2006 12:00:00 AM,US,Gasoline - Regular,2.77,Dollars
+04/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.94,Dollars
+04/01/2006 12:00:00 AM,US,Gasoline - Premium,3.047,Dollars
+04/01/2006 12:00:00 AM,US,Diesel,2.812,Dollars
+04/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.111,Dollars
+04/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.29,Dollars
+04/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.352,Dollars
+04/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.344,Dollars
+04/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,3.015,Dollars
+04/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.189,Dollars
+04/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,3.248,Dollars
+04/01/2006 12:00:00 AM,Honolulu,Diesel,3.296,Dollars
+04/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.401,Dollars
+04/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.596,Dollars
+04/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.663,Dollars
+04/01/2006 12:00:00 AM,Wailuku,Diesel,3.569,Dollars
+04/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,3.2,Dollars
+04/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.384,Dollars
+04/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.447,Dollars
+04/01/2006 12:00:00 AM,Hilo,Diesel,3.216,Dollars
+05/01/2006 12:00:00 AM,US,Gasoline - Regular,2.892,Dollars
+05/01/2006 12:00:00 AM,US,Gasoline - Midgrade,3.07,Dollars
+05/01/2006 12:00:00 AM,US,Gasoline - Premium,3.181,Dollars
+05/01/2006 12:00:00 AM,US,Diesel,2.96,Dollars
+05/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.404,Dollars
+05/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.599,Dollars
+05/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.666,Dollars
+05/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.46,Dollars
+05/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,3.297,Dollars
+05/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.486,Dollars
+05/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,3.551,Dollars
+05/01/2006 12:00:00 AM,Honolulu,Diesel,3.416,Dollars
+05/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.671,Dollars
+05/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.882,Dollars
+05/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.955,Dollars
+05/01/2006 12:00:00 AM,Wailuku,Diesel,3.6,Dollars
+05/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,3.531,Dollars
+05/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.734,Dollars
+05/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.803,Dollars
+05/01/2006 12:00:00 AM,Hilo,Diesel,3.36,Dollars
+06/01/2006 12:00:00 AM,US,Gasoline - Regular,2.873,Dollars
+06/01/2006 12:00:00 AM,US,Gasoline - Midgrade,3.05,Dollars
+06/01/2006 12:00:00 AM,US,Gasoline - Premium,3.16,Dollars
+06/01/2006 12:00:00 AM,US,Diesel,2.959,Dollars
+06/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.392,Dollars
+06/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.586,Dollars
+06/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.653,Dollars
+06/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.49,Dollars
+06/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,3.285,Dollars
+06/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.473,Dollars
+06/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,3.538,Dollars
+06/01/2006 12:00:00 AM,Honolulu,Diesel,3.45,Dollars
+06/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.632,Dollars
+06/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.841,Dollars
+06/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.912,Dollars
+06/01/2006 12:00:00 AM,Wailuku,Diesel,3.599,Dollars
+06/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,3.485,Dollars
+06/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.685,Dollars
+06/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.754,Dollars
+06/01/2006 12:00:00 AM,Hilo,Diesel,3.401,Dollars
+07/01/2006 12:00:00 AM,US,Gasoline - Regular,2.973,Dollars
+07/01/2006 12:00:00 AM,US,Gasoline - Midgrade,3.156,Dollars
+07/01/2006 12:00:00 AM,US,Gasoline - Premium,3.27,Dollars
+07/01/2006 12:00:00 AM,US,Diesel,2.997,Dollars
+07/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.374,Dollars
+07/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.568,Dollars
+07/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.635,Dollars
+07/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.509,Dollars
+07/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,3.265,Dollars
+07/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.452,Dollars
+07/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,3.517,Dollars
+07/01/2006 12:00:00 AM,Honolulu,Diesel,3.465,Dollars
+07/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.616,Dollars
+07/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.823,Dollars
+07/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.895,Dollars
+07/01/2006 12:00:00 AM,Wailuku,Diesel,3.589,Dollars
+07/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,3.492,Dollars
+07/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.693,Dollars
+07/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.762,Dollars
+07/01/2006 12:00:00 AM,Hilo,Diesel,3.414,Dollars
+08/01/2006 12:00:00 AM,US,Gasoline - Regular,2.952,Dollars
+08/01/2006 12:00:00 AM,US,Gasoline - Midgrade,3.133,Dollars
+08/01/2006 12:00:00 AM,US,Gasoline - Premium,3.247,Dollars
+08/01/2006 12:00:00 AM,US,Diesel,3.1,Dollars
+08/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.365,Dollars
+08/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.558,Dollars
+08/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.625,Dollars
+08/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.525,Dollars
+08/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,3.246,Dollars
+08/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.433,Dollars
+08/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,3.497,Dollars
+08/01/2006 12:00:00 AM,Honolulu,Diesel,3.469,Dollars
+08/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.624,Dollars
+08/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.833,Dollars
+08/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.904,Dollars
+08/01/2006 12:00:00 AM,Wailuku,Diesel,3.645,Dollars
+08/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,3.466,Dollars
+08/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.665,Dollars
+08/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.734,Dollars
+08/01/2006 12:00:00 AM,Hilo,Diesel,3.441,Dollars
+09/01/2006 12:00:00 AM,US,Gasoline - Regular,2.533,Dollars
+09/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.689,Dollars
+09/01/2006 12:00:00 AM,US,Gasoline - Premium,2.786,Dollars
+09/01/2006 12:00:00 AM,US,Diesel,2.878,Dollars
+09/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.237,Dollars
+09/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.423,Dollars
+09/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.487,Dollars
+09/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.527,Dollars
+09/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,3.108,Dollars
+09/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.286,Dollars
+09/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,3.348,Dollars
+09/01/2006 12:00:00 AM,Honolulu,Diesel,3.454,Dollars
+09/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.517,Dollars
+09/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.719,Dollars
+09/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.789,Dollars
+09/01/2006 12:00:00 AM,Wailuku,Diesel,3.679,Dollars
+09/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,3.39,Dollars
+09/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.584,Dollars
+09/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.651,Dollars
+09/01/2006 12:00:00 AM,Hilo,Diesel,3.464,Dollars
+10/01/2006 12:00:00 AM,US,Gasoline - Regular,2.239,Dollars
+10/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.377,Dollars
+10/01/2006 12:00:00 AM,US,Gasoline - Premium,2.463,Dollars
+10/01/2006 12:00:00 AM,US,Diesel,2.62,Dollars
+10/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.992,Dollars
+10/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.163,Dollars
+10/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.223,Dollars
+10/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.496,Dollars
+10/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,2.877,Dollars
+10/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.043,Dollars
+10/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,3.1,Dollars
+10/01/2006 12:00:00 AM,Honolulu,Diesel,3.429,Dollars
+10/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.265,Dollars
+10/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.453,Dollars
+10/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.517,Dollars
+10/01/2006 12:00:00 AM,Wailuku,Diesel,3.69,Dollars
+10/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,3.138,Dollars
+10/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.318,Dollars
+10/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.38,Dollars
+10/01/2006 12:00:00 AM,Hilo,Diesel,3.386,Dollars
+11/01/2006 12:00:00 AM,US,Gasoline - Regular,2.226,Dollars
+11/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.363,Dollars
+11/01/2006 12:00:00 AM,US,Gasoline - Premium,2.449,Dollars
+11/01/2006 12:00:00 AM,US,Diesel,2.628,Dollars
+11/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.861,Dollars
+11/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.025,Dollars
+11/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.082,Dollars
+11/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.472,Dollars
+11/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,2.765,Dollars
+11/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.924,Dollars
+11/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,2.978,Dollars
+11/01/2006 12:00:00 AM,Honolulu,Diesel,3.426,Dollars
+11/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.115,Dollars
+11/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.294,Dollars
+11/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.356,Dollars
+11/01/2006 12:00:00 AM,Wailuku,Diesel,3.644,Dollars
+11/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,2.997,Dollars
+11/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.169,Dollars
+11/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.228,Dollars
+11/01/2006 12:00:00 AM,Hilo,Diesel,3.32,Dollars
+12/01/2006 12:00:00 AM,US,Gasoline - Regular,2.309,Dollars
+12/01/2006 12:00:00 AM,US,Gasoline - Midgrade,2.451,Dollars
+12/01/2006 12:00:00 AM,US,Gasoline - Premium,2.54,Dollars
+12/01/2006 12:00:00 AM,US,Diesel,2.694,Dollars
+12/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.83,Dollars
+12/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.993,Dollars
+12/01/2006 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.049,Dollars
+12/01/2006 12:00:00 AM,State of Hawaii,Diesel,3.487,Dollars
+12/01/2006 12:00:00 AM,Honolulu,Gasoline - Regular,2.744,Dollars
+12/01/2006 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.902,Dollars
+12/01/2006 12:00:00 AM,Honolulu,Gasoline - Premium,2.956,Dollars
+12/01/2006 12:00:00 AM,Honolulu,Diesel,3.433,Dollars
+12/01/2006 12:00:00 AM,Wailuku,Gasoline - Regular,3.092,Dollars
+12/01/2006 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.27,Dollars
+12/01/2006 12:00:00 AM,Wailuku,Gasoline - Premium,3.331,Dollars
+12/01/2006 12:00:00 AM,Wailuku,Diesel,3.703,Dollars
+12/01/2006 12:00:00 AM,Hilo,Gasoline - Regular,2.92,Dollars
+12/01/2006 12:00:00 AM,Hilo,Gasoline - Midgrade,3.088,Dollars
+12/01/2006 12:00:00 AM,Hilo,Gasoline - Premium,3.146,Dollars
+12/01/2006 12:00:00 AM,Hilo,Diesel,3.313,Dollars
+01/01/2007 12:00:00 AM,US,Gasoline - Regular,2.225,Dollars
+01/01/2007 12:00:00 AM,US,Gasoline - Midgrade,2.361,Dollars
+01/01/2007 12:00:00 AM,US,Gasoline - Premium,2.447,Dollars
+01/01/2007 12:00:00 AM,US,Diesel,2.595,Dollars
+01/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.908,Dollars
+01/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.075,Dollars
+01/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.132,Dollars
+01/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.499,Dollars
+01/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,2.816,Dollars
+01/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.978,Dollars
+01/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.034,Dollars
+01/01/2007 12:00:00 AM,Honolulu,Diesel,3.439,Dollars
+01/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.202,Dollars
+01/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.386,Dollars
+01/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.45,Dollars
+01/01/2007 12:00:00 AM,Wailuku,Diesel,3.712,Dollars
+01/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.008,Dollars
+01/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.18,Dollars
+01/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.24,Dollars
+01/01/2007 12:00:00 AM,Hilo,Diesel,3.362,Dollars
+02/01/2007 12:00:00 AM,US,Gasoline - Regular,2.254,Dollars
+02/01/2007 12:00:00 AM,US,Gasoline - Midgrade,2.393,Dollars
+02/01/2007 12:00:00 AM,US,Gasoline - Premium,2.48,Dollars
+02/01/2007 12:00:00 AM,US,Diesel,2.574,Dollars
+02/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.864,Dollars
+02/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.029,Dollars
+02/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.085,Dollars
+02/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.467,Dollars
+02/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,2.764,Dollars
+02/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.923,Dollars
+02/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,2.977,Dollars
+02/01/2007 12:00:00 AM,Honolulu,Diesel,3.403,Dollars
+02/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.193,Dollars
+02/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.376,Dollars
+02/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.439,Dollars
+02/01/2007 12:00:00 AM,Wailuku,Diesel,3.679,Dollars
+02/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,2.976,Dollars
+02/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.147,Dollars
+02/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.206,Dollars
+02/01/2007 12:00:00 AM,Hilo,Diesel,3.43,Dollars
+03/01/2007 12:00:00 AM,US,Gasoline - Regular,2.551,Dollars
+03/01/2007 12:00:00 AM,US,Gasoline - Midgrade,2.708,Dollars
+03/01/2007 12:00:00 AM,US,Gasoline - Premium,2.806,Dollars
+03/01/2007 12:00:00 AM,US,Diesel,2.736,Dollars
+03/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.931,Dollars
+03/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.099,Dollars
+03/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.157,Dollars
+03/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.464,Dollars
+03/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,2.833,Dollars
+03/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.995,Dollars
+03/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.051,Dollars
+03/01/2007 12:00:00 AM,Honolulu,Diesel,3.409,Dollars
+03/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.223,Dollars
+03/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.408,Dollars
+03/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.472,Dollars
+03/01/2007 12:00:00 AM,Wailuku,Diesel,3.656,Dollars
+03/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,2.977,Dollars
+03/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.148,Dollars
+03/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.207,Dollars
+03/01/2007 12:00:00 AM,Hilo,Diesel,3.408,Dollars
+04/01/2007 12:00:00 AM,US,Gasoline - Regular,2.829,Dollars
+04/01/2007 12:00:00 AM,US,Gasoline - Midgrade,3.003,Dollars
+04/01/2007 12:00:00 AM,US,Gasoline - Premium,3.112,Dollars
+04/01/2007 12:00:00 AM,US,Diesel,2.912,Dollars
+04/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.079,Dollars
+04/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.256,Dollars
+04/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.317,Dollars
+04/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.503,Dollars
+04/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,2.995,Dollars
+04/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.167,Dollars
+04/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.227,Dollars
+04/01/2007 12:00:00 AM,Honolulu,Diesel,3.429,Dollars
+04/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.334,Dollars
+04/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.525,Dollars
+04/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.591,Dollars
+04/01/2007 12:00:00 AM,Wailuku,Diesel,3.705,Dollars
+04/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.103,Dollars
+04/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.281,Dollars
+04/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.342,Dollars
+04/01/2007 12:00:00 AM,Hilo,Diesel,3.436,Dollars
+05/01/2007 12:00:00 AM,US,Gasoline - Regular,3.118,Dollars
+05/01/2007 12:00:00 AM,US,Gasoline - Midgrade,3.31,Dollars
+05/01/2007 12:00:00 AM,US,Gasoline - Premium,3.431,Dollars
+05/01/2007 12:00:00 AM,US,Diesel,2.913,Dollars
+05/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.349,Dollars
+05/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.541,Dollars
+05/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.608,Dollars
+05/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.552,Dollars
+05/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.258,Dollars
+05/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.445,Dollars
+05/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.509,Dollars
+05/01/2007 12:00:00 AM,Honolulu,Diesel,3.478,Dollars
+05/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.653,Dollars
+05/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.863,Dollars
+05/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.935,Dollars
+05/01/2007 12:00:00 AM,Wailuku,Diesel,3.733,Dollars
+05/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.335,Dollars
+05/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.526,Dollars
+05/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.592,Dollars
+05/01/2007 12:00:00 AM,Hilo,Diesel,3.47,Dollars
+06/01/2007 12:00:00 AM,US,Gasoline - Regular,3.043,Dollars
+06/01/2007 12:00:00 AM,US,Gasoline - Midgrade,3.23,Dollars
+06/01/2007 12:00:00 AM,US,Gasoline - Premium,3.348,Dollars
+06/01/2007 12:00:00 AM,US,Diesel,2.902,Dollars
+06/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.412,Dollars
+06/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.608,Dollars
+06/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.676,Dollars
+06/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.563,Dollars
+06/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.314,Dollars
+06/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.505,Dollars
+06/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.57,Dollars
+06/01/2007 12:00:00 AM,Honolulu,Diesel,3.483,Dollars
+06/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.717,Dollars
+06/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.93,Dollars
+06/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,4.004,Dollars
+06/01/2007 12:00:00 AM,Wailuku,Diesel,3.734,Dollars
+06/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.408,Dollars
+06/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.604,Dollars
+06/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.672,Dollars
+06/01/2007 12:00:00 AM,Hilo,Diesel,3.545,Dollars
+07/01/2007 12:00:00 AM,US,Gasoline - Regular,2.97,Dollars
+07/01/2007 12:00:00 AM,US,Gasoline - Midgrade,3.153,Dollars
+07/01/2007 12:00:00 AM,US,Gasoline - Premium,3.267,Dollars
+07/01/2007 12:00:00 AM,US,Diesel,2.939,Dollars
+07/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.288,Dollars
+07/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.477,Dollars
+07/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.542,Dollars
+07/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.58,Dollars
+07/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.181,Dollars
+07/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.364,Dollars
+07/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.427,Dollars
+07/01/2007 12:00:00 AM,Honolulu,Diesel,3.503,Dollars
+07/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.603,Dollars
+07/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.81,Dollars
+07/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.881,Dollars
+07/01/2007 12:00:00 AM,Wailuku,Diesel,3.727,Dollars
+07/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.308,Dollars
+07/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.498,Dollars
+07/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.563,Dollars
+07/01/2007 12:00:00 AM,Hilo,Diesel,3.577,Dollars
+08/01/2007 12:00:00 AM,US,Gasoline - Regular,2.787,Dollars
+08/01/2007 12:00:00 AM,US,Gasoline - Midgrade,2.959,Dollars
+08/01/2007 12:00:00 AM,US,Gasoline - Premium,3.066,Dollars
+08/01/2007 12:00:00 AM,US,Diesel,2.937,Dollars
+08/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.256,Dollars
+08/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.443,Dollars
+08/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.508,Dollars
+08/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.602,Dollars
+08/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.151,Dollars
+08/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.332,Dollars
+08/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.395,Dollars
+08/01/2007 12:00:00 AM,Honolulu,Diesel,3.531,Dollars
+08/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.583,Dollars
+08/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.789,Dollars
+08/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.86,Dollars
+08/01/2007 12:00:00 AM,Wailuku,Diesel,3.722,Dollars
+08/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.277,Dollars
+08/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.465,Dollars
+08/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.53,Dollars
+08/01/2007 12:00:00 AM,Hilo,Diesel,3.59,Dollars
+09/01/2007 12:00:00 AM,US,Gasoline - Regular,2.802,Dollars
+09/01/2007 12:00:00 AM,US,Gasoline - Midgrade,2.975,Dollars
+09/01/2007 12:00:00 AM,US,Gasoline - Premium,3.083,Dollars
+09/01/2007 12:00:00 AM,US,Diesel,3.003,Dollars
+09/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.217,Dollars
+09/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.402,Dollars
+09/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.466,Dollars
+09/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.609,Dollars
+09/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.109,Dollars
+09/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.288,Dollars
+09/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.349,Dollars
+09/01/2007 12:00:00 AM,Honolulu,Diesel,3.543,Dollars
+09/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.557,Dollars
+09/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.762,Dollars
+09/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.832,Dollars
+09/01/2007 12:00:00 AM,Wailuku,Diesel,3.728,Dollars
+09/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.232,Dollars
+09/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.418,Dollars
+09/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.482,Dollars
+09/01/2007 12:00:00 AM,Hilo,Diesel,3.581,Dollars
+10/01/2007 12:00:00 AM,US,Gasoline - Regular,2.802,Dollars
+10/01/2007 12:00:00 AM,US,Gasoline - Midgrade,2.975,Dollars
+10/01/2007 12:00:00 AM,US,Gasoline - Premium,3.083,Dollars
+10/01/2007 12:00:00 AM,US,Diesel,3.127,Dollars
+10/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.201,Dollars
+10/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.385,Dollars
+10/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.448,Dollars
+10/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.659,Dollars
+10/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.09,Dollars
+10/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.268,Dollars
+10/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.329,Dollars
+10/01/2007 12:00:00 AM,Honolulu,Diesel,3.569,Dollars
+10/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.532,Dollars
+10/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.735,Dollars
+10/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.805,Dollars
+10/01/2007 12:00:00 AM,Wailuku,Diesel,3.787,Dollars
+10/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.226,Dollars
+10/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.412,Dollars
+10/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.475,Dollars
+10/01/2007 12:00:00 AM,Hilo,Diesel,3.665,Dollars
+11/01/2007 12:00:00 AM,US,Gasoline - Regular,3.073,Dollars
+11/01/2007 12:00:00 AM,US,Gasoline - Midgrade,3.263,Dollars
+11/01/2007 12:00:00 AM,US,Gasoline - Premium,3.381,Dollars
+11/01/2007 12:00:00 AM,US,Diesel,3.431,Dollars
+11/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.328,Dollars
+11/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.519,Dollars
+11/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.585,Dollars
+11/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.805,Dollars
+11/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.228,Dollars
+11/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.413,Dollars
+11/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.477,Dollars
+11/01/2007 12:00:00 AM,Honolulu,Diesel,3.722,Dollars
+11/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.652,Dollars
+11/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.862,Dollars
+11/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,3.934,Dollars
+11/01/2007 12:00:00 AM,Wailuku,Diesel,3.913,Dollars
+11/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.333,Dollars
+11/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.524,Dollars
+11/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.59,Dollars
+11/01/2007 12:00:00 AM,Hilo,Diesel,3.787,Dollars
+12/01/2007 12:00:00 AM,US,Gasoline - Regular,3.005,Dollars
+12/01/2007 12:00:00 AM,US,Gasoline - Midgrade,3.191,Dollars
+12/01/2007 12:00:00 AM,US,Gasoline - Premium,3.306,Dollars
+12/01/2007 12:00:00 AM,US,Diesel,3.427,Dollars
+12/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.46,Dollars
+12/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.659,Dollars
+12/01/2007 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.727,Dollars
+12/01/2007 12:00:00 AM,State of Hawaii,Diesel,3.889,Dollars
+12/01/2007 12:00:00 AM,Honolulu,Gasoline - Regular,3.349,Dollars
+12/01/2007 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.541,Dollars
+12/01/2007 12:00:00 AM,Honolulu,Gasoline - Premium,3.608,Dollars
+12/01/2007 12:00:00 AM,Honolulu,Diesel,3.802,Dollars
+12/01/2007 12:00:00 AM,Wailuku,Gasoline - Regular,3.844,Dollars
+12/01/2007 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.065,Dollars
+12/01/2007 12:00:00 AM,Wailuku,Gasoline - Premium,4.141,Dollars
+12/01/2007 12:00:00 AM,Wailuku,Diesel,3.975,Dollars
+12/01/2007 12:00:00 AM,Hilo,Gasoline - Regular,3.432,Dollars
+12/01/2007 12:00:00 AM,Hilo,Gasoline - Midgrade,3.629,Dollars
+12/01/2007 12:00:00 AM,Hilo,Gasoline - Premium,3.697,Dollars
+12/01/2007 12:00:00 AM,Hilo,Diesel,4.01,Dollars
+01/01/2008 12:00:00 AM,US,Gasoline - Regular,3.041,Dollars
+01/01/2008 12:00:00 AM,US,Gasoline - Midgrade,3.229,Dollars
+01/01/2008 12:00:00 AM,US,Gasoline - Premium,3.346,Dollars
+01/01/2008 12:00:00 AM,US,Diesel,3.414,Dollars
+01/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.479,Dollars
+01/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.679,Dollars
+01/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.748,Dollars
+01/01/2008 12:00:00 AM,State of Hawaii,Diesel,3.904,Dollars
+01/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,3.364,Dollars
+01/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.558,Dollars
+01/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,3.624,Dollars
+01/01/2008 12:00:00 AM,Honolulu,Diesel,3.803,Dollars
+01/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,3.847,Dollars
+01/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.068,Dollars
+01/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.144,Dollars
+01/01/2008 12:00:00 AM,Wailuku,Diesel,3.997,Dollars
+01/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,3.472,Dollars
+01/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,3.672,Dollars
+01/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,3.74,Dollars
+01/01/2008 12:00:00 AM,Hilo,Diesel,4.081,Dollars
+02/01/2008 12:00:00 AM,US,Gasoline - Regular,3.034,Dollars
+02/01/2008 12:00:00 AM,US,Gasoline - Midgrade,3.222,Dollars
+02/01/2008 12:00:00 AM,US,Gasoline - Premium,3.339,Dollars
+02/01/2008 12:00:00 AM,US,Diesel,3.458,Dollars
+02/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.489,Dollars
+02/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.69,Dollars
+02/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.759,Dollars
+02/01/2008 12:00:00 AM,State of Hawaii,Diesel,3.897,Dollars
+02/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,3.373,Dollars
+02/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.567,Dollars
+02/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,3.634,Dollars
+02/01/2008 12:00:00 AM,Honolulu,Diesel,3.806,Dollars
+02/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,3.859,Dollars
+02/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.081,Dollars
+02/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.157,Dollars
+02/01/2008 12:00:00 AM,Wailuku,Diesel,4.021,Dollars
+02/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,3.476,Dollars
+02/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,3.676,Dollars
+02/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,3.745,Dollars
+02/01/2008 12:00:00 AM,Hilo,Diesel,4.049,Dollars
+03/01/2008 12:00:00 AM,US,Gasoline - Regular,3.247,Dollars
+03/01/2008 12:00:00 AM,US,Gasoline - Midgrade,3.448,Dollars
+03/01/2008 12:00:00 AM,US,Gasoline - Premium,3.573,Dollars
+03/01/2008 12:00:00 AM,US,Diesel,3.919,Dollars
+03/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.612,Dollars
+03/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.819,Dollars
+03/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.891,Dollars
+03/01/2008 12:00:00 AM,State of Hawaii,Diesel,4.066,Dollars
+03/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,3.508,Dollars
+03/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.71,Dollars
+03/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,3.779,Dollars
+03/01/2008 12:00:00 AM,Honolulu,Diesel,3.96,Dollars
+03/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,3.933,Dollars
+03/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.159,Dollars
+03/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.237,Dollars
+03/01/2008 12:00:00 AM,Wailuku,Diesel,4.205,Dollars
+03/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,3.584,Dollars
+03/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,3.79,Dollars
+03/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,3.861,Dollars
+03/01/2008 12:00:00 AM,Hilo,Diesel,4.157,Dollars
+04/01/2008 12:00:00 AM,US,Gasoline - Regular,3.446,Dollars
+04/01/2008 12:00:00 AM,US,Gasoline - Midgrade,3.659,Dollars
+04/01/2008 12:00:00 AM,US,Gasoline - Premium,3.791,Dollars
+04/01/2008 12:00:00 AM,US,Diesel,4.137,Dollars
+04/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.73,Dollars
+04/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.944,Dollars
+04/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.018,Dollars
+04/01/2008 12:00:00 AM,State of Hawaii,Diesel,4.309,Dollars
+04/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,3.631,Dollars
+04/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.84,Dollars
+04/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,3.911,Dollars
+04/01/2008 12:00:00 AM,Honolulu,Diesel,4.197,Dollars
+04/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,4.061,Dollars
+04/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.294,Dollars
+04/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.375,Dollars
+04/01/2008 12:00:00 AM,Wailuku,Diesel,4.464,Dollars
+04/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,3.743,Dollars
+04/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,3.958,Dollars
+04/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,4.032,Dollars
+04/01/2008 12:00:00 AM,Hilo,Diesel,4.43,Dollars
+05/01/2008 12:00:00 AM,US,Gasoline - Regular,3.787,Dollars
+05/01/2008 12:00:00 AM,US,Gasoline - Midgrade,4.021,Dollars
+05/01/2008 12:00:00 AM,US,Gasoline - Premium,4.166,Dollars
+05/01/2008 12:00:00 AM,US,Diesel,4.5,Dollars
+05/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.952,Dollars
+05/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.179,Dollars
+05/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.257,Dollars
+05/01/2008 12:00:00 AM,State of Hawaii,Diesel,4.712,Dollars
+05/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,3.85,Dollars
+05/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.072,Dollars
+05/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,4.148,Dollars
+05/01/2008 12:00:00 AM,Honolulu,Diesel,4.604,Dollars
+05/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,4.261,Dollars
+05/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.506,Dollars
+05/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.59,Dollars
+05/01/2008 12:00:00 AM,Wailuku,Diesel,4.852,Dollars
+05/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,3.953,Dollars
+05/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,4.18,Dollars
+05/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,4.258,Dollars
+05/01/2008 12:00:00 AM,Hilo,Diesel,4.798,Dollars
+06/01/2008 12:00:00 AM,US,Gasoline - Regular,4.05,Dollars
+06/01/2008 12:00:00 AM,US,Gasoline - Midgrade,4.3,Dollars
+06/01/2008 12:00:00 AM,US,Gasoline - Premium,4.455,Dollars
+06/01/2008 12:00:00 AM,US,Diesel,4.778,Dollars
+06/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.294,Dollars
+06/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.54,Dollars
+06/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.625,Dollars
+06/01/2008 12:00:00 AM,State of Hawaii,Diesel,5.213,Dollars
+06/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,4.198,Dollars
+06/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.439,Dollars
+06/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,4.522,Dollars
+06/01/2008 12:00:00 AM,Honolulu,Diesel,5.147,Dollars
+06/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,4.56,Dollars
+06/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.823,Dollars
+06/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.913,Dollars
+06/01/2008 12:00:00 AM,Wailuku,Diesel,5.299,Dollars
+06/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,4.323,Dollars
+06/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,4.572,Dollars
+06/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,4.657,Dollars
+06/01/2008 12:00:00 AM,Hilo,Diesel,5.35,Dollars
+07/01/2008 12:00:00 AM,US,Gasoline - Regular,4.056,Dollars
+07/01/2008 12:00:00 AM,US,Gasoline - Midgrade,4.287,Dollars
+07/01/2008 12:00:00 AM,US,Gasoline - Premium,4.436,Dollars
+07/01/2008 12:00:00 AM,US,Diesel,4.789,Dollars
+07/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.471,Dollars
+07/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.7,Dollars
+07/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.788,Dollars
+07/01/2008 12:00:00 AM,State of Hawaii,Diesel,5.379,Dollars
+07/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,4.377,Dollars
+07/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.602,Dollars
+07/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,4.687,Dollars
+07/01/2008 12:00:00 AM,Honolulu,Diesel,5.313,Dollars
+07/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,4.694,Dollars
+07/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.934,Dollars
+07/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,5.026,Dollars
+07/01/2008 12:00:00 AM,Wailuku,Diesel,5.482,Dollars
+07/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,4.511,Dollars
+07/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,4.742,Dollars
+07/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,4.83,Dollars
+07/01/2008 12:00:00 AM,Hilo,Diesel,5.483,Dollars
+08/01/2008 12:00:00 AM,US,Gasoline - Regular,3.76,Dollars
+08/01/2008 12:00:00 AM,US,Gasoline - Midgrade,3.921,Dollars
+08/01/2008 12:00:00 AM,US,Gasoline - Premium,4.039,Dollars
+08/01/2008 12:00:00 AM,US,Diesel,4.435,Dollars
+08/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.431,Dollars
+08/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.574,Dollars
+08/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.659,Dollars
+08/01/2008 12:00:00 AM,State of Hawaii,Diesel,5.334,Dollars
+08/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,4.335,Dollars
+08/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.474,Dollars
+08/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,4.558,Dollars
+08/01/2008 12:00:00 AM,Honolulu,Diesel,5.279,Dollars
+08/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,4.697,Dollars
+08/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.849,Dollars
+08/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.939,Dollars
+08/01/2008 12:00:00 AM,Wailuku,Diesel,5.413,Dollars
+08/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,4.488,Dollars
+08/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,4.633,Dollars
+08/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,4.719,Dollars
+08/01/2008 12:00:00 AM,Hilo,Diesel,5.428,Dollars
+09/01/2008 12:00:00 AM,US,Gasoline - Regular,3.714,Dollars
+09/01/2008 12:00:00 AM,US,Gasoline - Midgrade,3.873,Dollars
+09/01/2008 12:00:00 AM,US,Gasoline - Premium,3.99,Dollars
+09/01/2008 12:00:00 AM,US,Diesel,4.169,Dollars
+09/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.305,Dollars
+09/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.444,Dollars
+09/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.527,Dollars
+09/01/2008 12:00:00 AM,State of Hawaii,Diesel,5.18,Dollars
+09/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,4.205,Dollars
+09/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.34,Dollars
+09/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,4.421,Dollars
+09/01/2008 12:00:00 AM,Honolulu,Diesel,5.125,Dollars
+09/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,4.613,Dollars
+09/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.762,Dollars
+09/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.851,Dollars
+09/01/2008 12:00:00 AM,Wailuku,Diesel,5.238,Dollars
+09/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,4.364,Dollars
+09/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,4.505,Dollars
+09/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,4.589,Dollars
+09/01/2008 12:00:00 AM,Hilo,Diesel,5.32,Dollars
+10/01/2008 12:00:00 AM,US,Gasoline - Regular,3.053,Dollars
+10/01/2008 12:00:00 AM,US,Gasoline - Midgrade,3.184,Dollars
+10/01/2008 12:00:00 AM,US,Gasoline - Premium,3.28,Dollars
+10/01/2008 12:00:00 AM,US,Diesel,3.721,Dollars
+10/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.863,Dollars
+10/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.988,Dollars
+10/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.062,Dollars
+10/01/2008 12:00:00 AM,State of Hawaii,Diesel,4.964,Dollars
+10/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,3.743,Dollars
+10/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.864,Dollars
+10/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,3.936,Dollars
+10/01/2008 12:00:00 AM,Honolulu,Diesel,4.913,Dollars
+10/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,4.26,Dollars
+10/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.397,Dollars
+10/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,4.479,Dollars
+10/01/2008 12:00:00 AM,Wailuku,Diesel,5.072,Dollars
+10/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,3.911,Dollars
+10/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,4.037,Dollars
+10/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,4.112,Dollars
+10/01/2008 12:00:00 AM,Hilo,Diesel,4.983,Dollars
+11/01/2008 12:00:00 AM,US,Gasoline - Regular,2.098,Dollars
+11/01/2008 12:00:00 AM,US,Gasoline - Midgrade,2.193,Dollars
+11/01/2008 12:00:00 AM,US,Gasoline - Premium,2.26,Dollars
+11/01/2008 12:00:00 AM,US,Diesel,2.988,Dollars
+11/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.035,Dollars
+11/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.143,Dollars
+11/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.202,Dollars
+11/01/2008 12:00:00 AM,State of Hawaii,Diesel,4.561,Dollars
+11/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,2.926,Dollars
+11/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.03,Dollars
+11/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,3.087,Dollars
+11/01/2008 12:00:00 AM,Honolulu,Diesel,4.552,Dollars
+11/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,3.468,Dollars
+11/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.591,Dollars
+11/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,3.658,Dollars
+11/01/2008 12:00:00 AM,Wailuku,Diesel,4.737,Dollars
+11/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,3.065,Dollars
+11/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,3.175,Dollars
+11/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,3.234,Dollars
+11/01/2008 12:00:00 AM,Hilo,Diesel,4.355,Dollars
+12/01/2008 12:00:00 AM,US,Gasoline - Regular,1.68,Dollars
+12/01/2008 12:00:00 AM,US,Gasoline - Midgrade,1.784,Dollars
+12/01/2008 12:00:00 AM,US,Gasoline - Premium,1.847,Dollars
+12/01/2008 12:00:00 AM,US,Diesel,2.553,Dollars
+12/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.452,Dollars
+12/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.593,Dollars
+12/01/2008 12:00:00 AM,State of Hawaii,Gasoline - Premium,2.642,Dollars
+12/01/2008 12:00:00 AM,State of Hawaii,Diesel,4.077,Dollars
+12/01/2008 12:00:00 AM,Honolulu,Gasoline - Regular,2.354,Dollars
+12/01/2008 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.489,Dollars
+12/01/2008 12:00:00 AM,Honolulu,Gasoline - Premium,2.536,Dollars
+12/01/2008 12:00:00 AM,Honolulu,Diesel,4.108,Dollars
+12/01/2008 12:00:00 AM,Wailuku,Gasoline - Regular,2.787,Dollars
+12/01/2008 12:00:00 AM,Wailuku,Gasoline - Midgrade,2.948,Dollars
+12/01/2008 12:00:00 AM,Wailuku,Gasoline - Premium,3.003,Dollars
+12/01/2008 12:00:00 AM,Wailuku,Diesel,4.331,Dollars
+12/01/2008 12:00:00 AM,Hilo,Gasoline - Regular,2.525,Dollars
+12/01/2008 12:00:00 AM,Hilo,Gasoline - Midgrade,2.67,Dollars
+12/01/2008 12:00:00 AM,Hilo,Gasoline - Premium,2.72,Dollars
+12/01/2008 12:00:00 AM,Hilo,Diesel,3.707,Dollars
+01/01/2009 12:00:00 AM,US,Gasoline - Regular,1.795,Dollars
+01/01/2009 12:00:00 AM,US,Gasoline - Midgrade,1.907,Dollars
+01/01/2009 12:00:00 AM,US,Gasoline - Premium,1.974,Dollars
+01/01/2009 12:00:00 AM,US,Diesel,2.414,Dollars
+01/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.324,Dollars
+01/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.458,Dollars
+01/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,2.503,Dollars
+01/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.932,Dollars
+01/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,2.253,Dollars
+01/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.383,Dollars
+01/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,2.427,Dollars
+01/01/2009 12:00:00 AM,Honolulu,Diesel,3.975,Dollars
+01/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,2.478,Dollars
+01/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,2.62,Dollars
+01/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,2.669,Dollars
+01/01/2009 12:00:00 AM,Wailuku,Diesel,4.211,Dollars
+01/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,2.428,Dollars
+01/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,2.567,Dollars
+01/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,2.615,Dollars
+01/01/2009 12:00:00 AM,Hilo,Diesel,3.604,Dollars
+02/01/2009 12:00:00 AM,US,Gasoline - Regular,1.924,Dollars
+02/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.043,Dollars
+02/01/2009 12:00:00 AM,US,Gasoline - Premium,2.115,Dollars
+02/01/2009 12:00:00 AM,US,Diesel,2.315,Dollars
+02/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.401,Dollars
+02/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.54,Dollars
+02/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,2.587,Dollars
+02/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.887,Dollars
+02/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,2.332,Dollars
+02/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.467,Dollars
+02/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,2.512,Dollars
+02/01/2009 12:00:00 AM,Honolulu,Diesel,3.956,Dollars
+02/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,2.545,Dollars
+02/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,2.691,Dollars
+02/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,2.741,Dollars
+02/01/2009 12:00:00 AM,Wailuku,Diesel,4.144,Dollars
+02/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,2.498,Dollars
+02/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,2.642,Dollars
+02/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,2.691,Dollars
+02/01/2009 12:00:00 AM,Hilo,Diesel,3.512,Dollars
+03/01/2009 12:00:00 AM,US,Gasoline - Regular,1.96,Dollars
+03/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.081,Dollars
+03/01/2009 12:00:00 AM,US,Gasoline - Premium,2.155,Dollars
+03/01/2009 12:00:00 AM,US,Diesel,2.182,Dollars
+03/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.44,Dollars
+03/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.581,Dollars
+03/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,2.629,Dollars
+03/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.838,Dollars
+03/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,2.369,Dollars
+03/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.505,Dollars
+03/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,2.552,Dollars
+03/01/2009 12:00:00 AM,Honolulu,Diesel,3.877,Dollars
+03/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,2.618,Dollars
+03/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,2.769,Dollars
+03/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,2.82,Dollars
+03/01/2009 12:00:00 AM,Wailuku,Diesel,4.129,Dollars
+03/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,2.518,Dollars
+03/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,2.663,Dollars
+03/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,2.713,Dollars
+03/01/2009 12:00:00 AM,Hilo,Diesel,3.465,Dollars
+04/01/2009 12:00:00 AM,US,Gasoline - Regular,2.051,Dollars
+04/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.178,Dollars
+04/01/2009 12:00:00 AM,US,Gasoline - Premium,2.255,Dollars
+04/01/2009 12:00:00 AM,US,Diesel,2.269,Dollars
+04/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.457,Dollars
+04/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.599,Dollars
+04/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,2.647,Dollars
+04/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.824,Dollars
+04/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,2.377,Dollars
+04/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.514,Dollars
+04/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,2.56,Dollars
+04/01/2009 12:00:00 AM,Honolulu,Diesel,3.853,Dollars
+04/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,2.687,Dollars
+04/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,2.842,Dollars
+04/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,2.895,Dollars
+04/01/2009 12:00:00 AM,Wailuku,Diesel,4.115,Dollars
+04/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,2.534,Dollars
+04/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,2.68,Dollars
+04/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,2.729,Dollars
+04/01/2009 12:00:00 AM,Hilo,Diesel,3.475,Dollars
+05/01/2009 12:00:00 AM,US,Gasoline - Regular,2.299,Dollars
+05/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.441,Dollars
+05/01/2009 12:00:00 AM,US,Gasoline - Premium,2.528,Dollars
+05/01/2009 12:00:00 AM,US,Diesel,2.297,Dollars
+05/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.613,Dollars
+05/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,2.763,Dollars
+05/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,2.815,Dollars
+05/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.81,Dollars
+05/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,2.534,Dollars
+05/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,2.679,Dollars
+05/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,2.729,Dollars
+05/01/2009 12:00:00 AM,Honolulu,Diesel,3.853,Dollars
+05/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,2.898,Dollars
+05/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.065,Dollars
+05/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,3.122,Dollars
+05/01/2009 12:00:00 AM,Wailuku,Diesel,3.815,Dollars
+05/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,2.694,Dollars
+05/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,2.849,Dollars
+05/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,2.902,Dollars
+05/01/2009 12:00:00 AM,Hilo,Diesel,3.398,Dollars
+06/01/2009 12:00:00 AM,US,Gasoline - Regular,2.642,Dollars
+06/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.805,Dollars
+06/01/2009 12:00:00 AM,US,Gasoline - Premium,2.906,Dollars
+06/01/2009 12:00:00 AM,US,Diesel,2.572,Dollars
+06/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,2.994,Dollars
+06/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.166,Dollars
+06/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.226,Dollars
+06/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.874,Dollars
+06/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,2.914,Dollars
+06/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.081,Dollars
+06/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,3.139,Dollars
+06/01/2009 12:00:00 AM,Honolulu,Diesel,3.858,Dollars
+06/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,3.272,Dollars
+06/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.46,Dollars
+06/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,3.525,Dollars
+06/01/2009 12:00:00 AM,Wailuku,Diesel,3.984,Dollars
+06/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,3.056,Dollars
+06/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,3.231,Dollars
+06/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,3.291,Dollars
+06/01/2009 12:00:00 AM,Hilo,Diesel,3.448,Dollars
+07/01/2009 12:00:00 AM,US,Gasoline - Regular,2.528,Dollars
+07/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.684,Dollars
+07/01/2009 12:00:00 AM,US,Gasoline - Premium,2.78,Dollars
+07/01/2009 12:00:00 AM,US,Diesel,2.574,Dollars
+07/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.212,Dollars
+07/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.396,Dollars
+07/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.46,Dollars
+07/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.891,Dollars
+07/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,3.122,Dollars
+07/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.301,Dollars
+07/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,3.363,Dollars
+07/01/2009 12:00:00 AM,Honolulu,Diesel,3.877,Dollars
+07/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,3.536,Dollars
+07/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.739,Dollars
+07/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,3.809,Dollars
+07/01/2009 12:00:00 AM,Wailuku,Diesel,3.99,Dollars
+07/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,3.222,Dollars
+07/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,3.408,Dollars
+07/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,3.471,Dollars
+07/01/2009 12:00:00 AM,Hilo,Diesel,3.559,Dollars
+08/01/2009 12:00:00 AM,US,Gasoline - Regular,2.62,Dollars
+08/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.782,Dollars
+08/01/2009 12:00:00 AM,US,Gasoline - Premium,2.881,Dollars
+08/01/2009 12:00:00 AM,US,Diesel,2.667,Dollars
+08/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.234,Dollars
+08/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.42,Dollars
+08/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.484,Dollars
+08/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.924,Dollars
+08/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,3.137,Dollars
+08/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.318,Dollars
+08/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,3.379,Dollars
+08/01/2009 12:00:00 AM,Honolulu,Diesel,3.88,Dollars
+08/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,3.604,Dollars
+08/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.811,Dollars
+08/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,3.882,Dollars
+08/01/2009 12:00:00 AM,Wailuku,Diesel,4.026,Dollars
+08/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,3.224,Dollars
+08/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,3.41,Dollars
+08/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,3.473,Dollars
+08/01/2009 12:00:00 AM,Hilo,Diesel,3.736,Dollars
+09/01/2009 12:00:00 AM,US,Gasoline - Regular,2.551,Dollars
+09/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.709,Dollars
+09/01/2009 12:00:00 AM,US,Gasoline - Premium,2.806,Dollars
+09/01/2009 12:00:00 AM,US,Diesel,2.664,Dollars
+09/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.349,Dollars
+09/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.542,Dollars
+09/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.608,Dollars
+09/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.924,Dollars
+09/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,3.249,Dollars
+09/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.436,Dollars
+09/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,3.5,Dollars
+09/01/2009 12:00:00 AM,Honolulu,Diesel,3.872,Dollars
+09/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,3.727,Dollars
+09/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.941,Dollars
+09/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,4.014,Dollars
+09/01/2009 12:00:00 AM,Wailuku,Diesel,4.049,Dollars
+09/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,3.369,Dollars
+09/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,3.562,Dollars
+09/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,3.629,Dollars
+09/01/2009 12:00:00 AM,Hilo,Diesel,3.781,Dollars
+10/01/2009 12:00:00 AM,US,Gasoline - Regular,2.557,Dollars
+10/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.715,Dollars
+10/01/2009 12:00:00 AM,US,Gasoline - Premium,2.812,Dollars
+10/01/2009 12:00:00 AM,US,Diesel,2.706,Dollars
+10/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.262,Dollars
+10/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.449,Dollars
+10/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.514,Dollars
+10/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.895,Dollars
+10/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,3.158,Dollars
+10/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.34,Dollars
+10/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,3.402,Dollars
+10/01/2009 12:00:00 AM,Honolulu,Diesel,3.834,Dollars
+10/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,3.622,Dollars
+10/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.83,Dollars
+10/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,3.902,Dollars
+10/01/2009 12:00:00 AM,Wailuku,Diesel,4.026,Dollars
+10/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,3.27,Dollars
+10/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,3.458,Dollars
+10/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,3.523,Dollars
+10/01/2009 12:00:00 AM,Hilo,Diesel,3.773,Dollars
+11/01/2009 12:00:00 AM,US,Gasoline - Regular,2.648,Dollars
+11/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.812,Dollars
+11/01/2009 12:00:00 AM,US,Gasoline - Premium,2.913,Dollars
+11/01/2009 12:00:00 AM,US,Diesel,2.824,Dollars
+11/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.333,Dollars
+11/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.524,Dollars
+11/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.59,Dollars
+11/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.915,Dollars
+11/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,3.225,Dollars
+11/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.41,Dollars
+11/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,3.474,Dollars
+11/01/2009 12:00:00 AM,Honolulu,Diesel,3.828,Dollars
+11/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,3.703,Dollars
+11/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.916,Dollars
+11/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,3.989,Dollars
+11/01/2009 12:00:00 AM,Wailuku,Diesel,4.103,Dollars
+11/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,3.351,Dollars
+11/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,3.543,Dollars
+11/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,3.609,Dollars
+11/01/2009 12:00:00 AM,Hilo,Diesel,3.844,Dollars
+12/01/2009 12:00:00 AM,US,Gasoline - Regular,2.611,Dollars
+12/01/2009 12:00:00 AM,US,Gasoline - Midgrade,2.773,Dollars
+12/01/2009 12:00:00 AM,US,Gasoline - Premium,2.872,Dollars
+12/01/2009 12:00:00 AM,US,Diesel,2.801,Dollars
+12/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.333,Dollars
+12/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.525,Dollars
+12/01/2009 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.591,Dollars
+12/01/2009 12:00:00 AM,State of Hawaii,Diesel,3.911,Dollars
+12/01/2009 12:00:00 AM,Honolulu,Gasoline - Regular,3.23,Dollars
+12/01/2009 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.415,Dollars
+12/01/2009 12:00:00 AM,Honolulu,Gasoline - Premium,3.479,Dollars
+12/01/2009 12:00:00 AM,Honolulu,Diesel,3.82,Dollars
+12/01/2009 12:00:00 AM,Wailuku,Gasoline - Regular,3.702,Dollars
+12/01/2009 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.915,Dollars
+12/01/2009 12:00:00 AM,Wailuku,Gasoline - Premium,3.987,Dollars
+12/01/2009 12:00:00 AM,Wailuku,Diesel,4.125,Dollars
+12/01/2009 12:00:00 AM,Hilo,Gasoline - Regular,3.363,Dollars
+12/01/2009 12:00:00 AM,Hilo,Gasoline - Midgrade,3.556,Dollars
+12/01/2009 12:00:00 AM,Hilo,Gasoline - Premium,3.623,Dollars
+12/01/2009 12:00:00 AM,Hilo,Diesel,3.827,Dollars
+01/01/2010 12:00:00 AM,US,Gasoline - Regular,2.714,Dollars
+01/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.882,Dollars
+01/01/2010 12:00:00 AM,US,Gasoline - Premium,2.985,Dollars
+01/01/2010 12:00:00 AM,US,Diesel,2.887,Dollars
+01/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.382,Dollars
+01/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.576,Dollars
+01/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.643,Dollars
+01/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.933,Dollars
+01/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.28,Dollars
+01/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.469,Dollars
+01/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.534,Dollars
+01/01/2010 12:00:00 AM,Honolulu,Diesel,3.821,Dollars
+01/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.748,Dollars
+01/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.964,Dollars
+01/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.038,Dollars
+01/01/2010 12:00:00 AM,Wailuku,Diesel,4.193,Dollars
+01/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.407,Dollars
+01/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.603,Dollars
+01/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.67,Dollars
+01/01/2010 12:00:00 AM,Hilo,Diesel,3.88,Dollars
+02/01/2010 12:00:00 AM,US,Gasoline - Regular,2.651,Dollars
+02/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.816,Dollars
+02/01/2010 12:00:00 AM,US,Gasoline - Premium,2.917,Dollars
+02/01/2010 12:00:00 AM,US,Diesel,2.844,Dollars
+02/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.429,Dollars
+02/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.626,Dollars
+02/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.693,Dollars
+02/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.925,Dollars
+02/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.326,Dollars
+02/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.517,Dollars
+02/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.583,Dollars
+02/01/2010 12:00:00 AM,Honolulu,Diesel,3.817,Dollars
+02/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.795,Dollars
+02/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.013,Dollars
+02/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.088,Dollars
+02/01/2010 12:00:00 AM,Wailuku,Diesel,4.174,Dollars
+02/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.467,Dollars
+02/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.666,Dollars
+02/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.734,Dollars
+02/01/2010 12:00:00 AM,Hilo,Diesel,3.885,Dollars
+03/01/2010 12:00:00 AM,US,Gasoline - Regular,2.781,Dollars
+03/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.953,Dollars
+03/01/2010 12:00:00 AM,US,Gasoline - Premium,3.06,Dollars
+03/01/2010 12:00:00 AM,US,Diesel,2.922,Dollars
+03/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.467,Dollars
+03/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.666,Dollars
+03/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.735,Dollars
+03/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.934,Dollars
+03/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.361,Dollars
+03/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.554,Dollars
+03/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.621,Dollars
+03/01/2010 12:00:00 AM,Honolulu,Diesel,3.818,Dollars
+03/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.833,Dollars
+03/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.054,Dollars
+03/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.129,Dollars
+03/01/2010 12:00:00 AM,Wailuku,Diesel,4.196,Dollars
+03/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.482,Dollars
+03/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.682,Dollars
+03/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.751,Dollars
+03/01/2010 12:00:00 AM,Hilo,Diesel,3.905,Dollars
+04/01/2010 12:00:00 AM,US,Gasoline - Regular,2.855,Dollars
+04/01/2010 12:00:00 AM,US,Gasoline - Midgrade,3.031,Dollars
+04/01/2010 12:00:00 AM,US,Gasoline - Premium,3.14,Dollars
+04/01/2010 12:00:00 AM,US,Diesel,3.047,Dollars
+04/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.544,Dollars
+04/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.748,Dollars
+04/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.818,Dollars
+04/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.964,Dollars
+04/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.438,Dollars
+04/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.636,Dollars
+04/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.703,Dollars
+04/01/2010 12:00:00 AM,Honolulu,Diesel,3.835,Dollars
+04/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.896,Dollars
+04/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.12,Dollars
+04/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.197,Dollars
+04/01/2010 12:00:00 AM,Wailuku,Diesel,4.196,Dollars
+04/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.557,Dollars
+04/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.762,Dollars
+04/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.832,Dollars
+04/01/2010 12:00:00 AM,Hilo,Diesel,3.981,Dollars
+05/01/2010 12:00:00 AM,US,Gasoline - Regular,2.844,Dollars
+05/01/2010 12:00:00 AM,US,Gasoline - Midgrade,3.019,Dollars
+05/01/2010 12:00:00 AM,US,Gasoline - Premium,3.128,Dollars
+05/01/2010 12:00:00 AM,US,Diesel,3.081,Dollars
+05/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.563,Dollars
+05/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.768,Dollars
+05/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.838,Dollars
+05/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.993,Dollars
+05/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.455,Dollars
+05/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.653,Dollars
+05/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.721,Dollars
+05/01/2010 12:00:00 AM,Honolulu,Diesel,3.836,Dollars
+05/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.912,Dollars
+05/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.137,Dollars
+05/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.214,Dollars
+05/01/2010 12:00:00 AM,Wailuku,Diesel,4.232,Dollars
+05/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.567,Dollars
+05/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.772,Dollars
+05/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.842,Dollars
+05/01/2010 12:00:00 AM,Hilo,Diesel,4.033,Dollars
+06/01/2010 12:00:00 AM,US,Gasoline - Regular,2.727,Dollars
+06/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.895,Dollars
+06/01/2010 12:00:00 AM,US,Gasoline - Premium,3,Dollars
+06/01/2010 12:00:00 AM,US,Diesel,2.979,Dollars
+06/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.475,Dollars
+06/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.675,Dollars
+06/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.743,Dollars
+06/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.959,Dollars
+06/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.364,Dollars
+06/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.557,Dollars
+06/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.623,Dollars
+06/01/2010 12:00:00 AM,Honolulu,Diesel,3.82,Dollars
+06/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.794,Dollars
+06/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.012,Dollars
+06/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.086,Dollars
+06/01/2010 12:00:00 AM,Wailuku,Diesel,4.2,Dollars
+06/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.458,Dollars
+06/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.657,Dollars
+06/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.725,Dollars
+06/01/2010 12:00:00 AM,Hilo,Diesel,4.037,Dollars
+07/01/2010 12:00:00 AM,US,Gasoline - Regular,2.727,Dollars
+07/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.895,Dollars
+07/01/2010 12:00:00 AM,US,Gasoline - Premium,2.999,Dollars
+07/01/2010 12:00:00 AM,US,Diesel,2.954,Dollars
+07/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.461,Dollars
+07/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.66,Dollars
+07/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.728,Dollars
+07/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.977,Dollars
+07/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.361,Dollars
+07/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.555,Dollars
+07/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.621,Dollars
+07/01/2010 12:00:00 AM,Honolulu,Diesel,3.836,Dollars
+07/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.777,Dollars
+07/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,3.994,Dollars
+07/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.068,Dollars
+07/01/2010 12:00:00 AM,Wailuku,Diesel,4.201,Dollars
+07/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.46,Dollars
+07/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.659,Dollars
+07/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.727,Dollars
+07/01/2010 12:00:00 AM,Hilo,Diesel,4.009,Dollars
+08/01/2010 12:00:00 AM,US,Gasoline - Regular,2.732,Dollars
+08/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.9,Dollars
+08/01/2010 12:00:00 AM,US,Gasoline - Premium,3.005,Dollars
+08/01/2010 12:00:00 AM,US,Diesel,2.974,Dollars
+08/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.486,Dollars
+08/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.686,Dollars
+08/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.755,Dollars
+08/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.989,Dollars
+08/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.371,Dollars
+08/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.565,Dollars
+08/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.631,Dollars
+08/01/2010 12:00:00 AM,Honolulu,Diesel,3.848,Dollars
+08/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.829,Dollars
+08/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.049,Dollars
+08/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.124,Dollars
+08/01/2010 12:00:00 AM,Wailuku,Diesel,4.235,Dollars
+08/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.487,Dollars
+08/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.688,Dollars
+08/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.757,Dollars
+08/01/2010 12:00:00 AM,Hilo,Diesel,4.007,Dollars
+09/01/2010 12:00:00 AM,US,Gasoline - Regular,2.703,Dollars
+09/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.869,Dollars
+09/01/2010 12:00:00 AM,US,Gasoline - Premium,2.973,Dollars
+09/01/2010 12:00:00 AM,US,Diesel,2.963,Dollars
+09/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.448,Dollars
+09/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.646,Dollars
+09/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.714,Dollars
+09/01/2010 12:00:00 AM,State of Hawaii,Diesel,3.978,Dollars
+09/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.314,Dollars
+09/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.504,Dollars
+09/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.57,Dollars
+09/01/2010 12:00:00 AM,Honolulu,Diesel,3.86,Dollars
+09/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.818,Dollars
+09/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.037,Dollars
+09/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.113,Dollars
+09/01/2010 12:00:00 AM,Wailuku,Diesel,4.191,Dollars
+09/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.405,Dollars
+09/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.601,Dollars
+09/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.668,Dollars
+09/01/2010 12:00:00 AM,Hilo,Diesel,3.992,Dollars
+10/01/2010 12:00:00 AM,US,Gasoline - Regular,2.799,Dollars
+10/01/2010 12:00:00 AM,US,Gasoline - Midgrade,2.972,Dollars
+10/01/2010 12:00:00 AM,US,Gasoline - Premium,3.079,Dollars
+10/01/2010 12:00:00 AM,US,Diesel,3.077,Dollars
+10/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.481,Dollars
+10/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.682,Dollars
+10/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.75,Dollars
+10/01/2010 12:00:00 AM,State of Hawaii,Diesel,4.043,Dollars
+10/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.352,Dollars
+10/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.545,Dollars
+10/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.611,Dollars
+10/01/2010 12:00:00 AM,Honolulu,Diesel,3.885,Dollars
+10/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.853,Dollars
+10/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.075,Dollars
+10/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.151,Dollars
+10/01/2010 12:00:00 AM,Wailuku,Diesel,4.301,Dollars
+10/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.467,Dollars
+10/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.667,Dollars
+10/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.735,Dollars
+10/01/2010 12:00:00 AM,Hilo,Diesel,4.09,Dollars
+11/01/2010 12:00:00 AM,US,Gasoline - Regular,2.861,Dollars
+11/01/2010 12:00:00 AM,US,Gasoline - Midgrade,3.038,Dollars
+11/01/2010 12:00:00 AM,US,Gasoline - Premium,3.147,Dollars
+11/01/2010 12:00:00 AM,US,Diesel,3.163,Dollars
+11/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.519,Dollars
+11/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.721,Dollars
+11/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.791,Dollars
+11/01/2010 12:00:00 AM,State of Hawaii,Diesel,4.067,Dollars
+11/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.383,Dollars
+11/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.577,Dollars
+11/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.644,Dollars
+11/01/2010 12:00:00 AM,Honolulu,Diesel,3.906,Dollars
+11/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.921,Dollars
+11/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.147,Dollars
+11/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.224,Dollars
+11/01/2010 12:00:00 AM,Wailuku,Diesel,4.35,Dollars
+11/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.515,Dollars
+11/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.717,Dollars
+11/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.786,Dollars
+11/01/2010 12:00:00 AM,Hilo,Diesel,4.169,Dollars
+12/01/2010 12:00:00 AM,US,Gasoline - Regular,2.991,Dollars
+12/01/2010 12:00:00 AM,US,Gasoline - Midgrade,3.177,Dollars
+12/01/2010 12:00:00 AM,US,Gasoline - Premium,3.291,Dollars
+12/01/2010 12:00:00 AM,US,Diesel,3.257,Dollars
+12/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.594,Dollars
+12/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.801,Dollars
+12/01/2010 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.872,Dollars
+12/01/2010 12:00:00 AM,State of Hawaii,Diesel,4.087,Dollars
+12/01/2010 12:00:00 AM,Honolulu,Gasoline - Regular,3.465,Dollars
+12/01/2010 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.665,Dollars
+12/01/2010 12:00:00 AM,Honolulu,Gasoline - Premium,3.733,Dollars
+12/01/2010 12:00:00 AM,Honolulu,Diesel,3.937,Dollars
+12/01/2010 12:00:00 AM,Wailuku,Gasoline - Regular,3.967,Dollars
+12/01/2010 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.195,Dollars
+12/01/2010 12:00:00 AM,Wailuku,Gasoline - Premium,4.273,Dollars
+12/01/2010 12:00:00 AM,Wailuku,Diesel,4.311,Dollars
+12/01/2010 12:00:00 AM,Hilo,Gasoline - Regular,3.588,Dollars
+12/01/2010 12:00:00 AM,Hilo,Gasoline - Midgrade,3.794,Dollars
+12/01/2010 12:00:00 AM,Hilo,Gasoline - Premium,3.865,Dollars
+12/01/2010 12:00:00 AM,Hilo,Diesel,4.241,Dollars
+01/01/2011 12:00:00 AM,US,Gasoline - Regular,3.096,Dollars
+01/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.288,Dollars
+01/01/2011 12:00:00 AM,US,Gasoline - Premium,3.406,Dollars
+01/01/2011 12:00:00 AM,US,Diesel,3.379,Dollars
+01/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.694,Dollars
+01/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.906,Dollars
+01/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.979,Dollars
+01/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.114,Dollars
+01/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,3.576,Dollars
+01/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.782,Dollars
+01/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,3.852,Dollars
+01/01/2011 12:00:00 AM,Honolulu,Diesel,3.967,Dollars
+01/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.037,Dollars
+01/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.269,Dollars
+01/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.349,Dollars
+01/01/2011 12:00:00 AM,Wailuku,Diesel,4.29,Dollars
+01/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,3.716,Dollars
+01/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,3.93,Dollars
+01/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.003,Dollars
+01/01/2011 12:00:00 AM,Hilo,Diesel,4.316,Dollars
+02/01/2011 12:00:00 AM,US,Gasoline - Regular,3.177,Dollars
+02/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.309,Dollars
+02/01/2011 12:00:00 AM,US,Gasoline - Premium,3.439,Dollars
+02/01/2011 12:00:00 AM,US,Diesel,3.552,Dollars
+02/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,3.746,Dollars
+02/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,3.828,Dollars
+02/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,3.906,Dollars
+02/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.173,Dollars
+02/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,3.637,Dollars
+02/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,3.748,Dollars
+02/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,3.827,Dollars
+02/01/2011 12:00:00 AM,Honolulu,Diesel,4.026,Dollars
+02/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.015,Dollars
+02/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.078,Dollars
+02/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.169,Dollars
+02/01/2011 12:00:00 AM,Wailuku,Diesel,4.346,Dollars
+02/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,3.762,Dollars
+02/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,3.866,Dollars
+02/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,3.927,Dollars
+02/01/2011 12:00:00 AM,Hilo,Diesel,4.358,Dollars
+03/01/2011 12:00:00 AM,US,Gasoline - Regular,3.54,Dollars
+03/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.674,Dollars
+03/01/2011 12:00:00 AM,US,Gasoline - Premium,3.805,Dollars
+03/01/2011 12:00:00 AM,US,Diesel,3.913,Dollars
+03/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.047,Dollars
+03/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.127,Dollars
+03/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.212,Dollars
+03/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.455,Dollars
+03/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,3.959,Dollars
+03/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.055,Dollars
+03/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.139,Dollars
+03/01/2011 12:00:00 AM,Honolulu,Diesel,4.313,Dollars
+03/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.269,Dollars
+03/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.361,Dollars
+03/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.454,Dollars
+03/01/2011 12:00:00 AM,Wailuku,Diesel,4.64,Dollars
+03/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.085,Dollars
+03/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.179,Dollars
+03/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.273,Dollars
+03/01/2011 12:00:00 AM,Hilo,Diesel,4.546,Dollars
+04/01/2011 12:00:00 AM,US,Gasoline - Regular,3.805,Dollars
+04/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.941,Dollars
+04/01/2011 12:00:00 AM,US,Gasoline - Premium,4.069,Dollars
+04/01/2011 12:00:00 AM,US,Diesel,4.094,Dollars
+04/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.461,Dollars
+04/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.547,Dollars
+04/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.628,Dollars
+04/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.783,Dollars
+04/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,4.359,Dollars
+04/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.458,Dollars
+04/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.541,Dollars
+04/01/2011 12:00:00 AM,Honolulu,Diesel,4.666,Dollars
+04/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.794,Dollars
+04/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.888,Dollars
+04/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.977,Dollars
+04/01/2011 12:00:00 AM,Wailuku,Diesel,4.862,Dollars
+04/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.476,Dollars
+04/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.571,Dollars
+04/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.666,Dollars
+04/01/2011 12:00:00 AM,Hilo,Diesel,4.927,Dollars
+05/01/2011 12:00:00 AM,US,Gasoline - Regular,3.902,Dollars
+05/01/2011 12:00:00 AM,US,Gasoline - Midgrade,4.043,Dollars
+05/01/2011 12:00:00 AM,US,Gasoline - Premium,4.17,Dollars
+05/01/2011 12:00:00 AM,US,Diesel,4.098,Dollars
+05/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.377,Dollars
+05/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.452,Dollars
+05/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.543,Dollars
+05/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.846,Dollars
+05/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,4.258,Dollars
+05/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.356,Dollars
+05/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.446,Dollars
+05/01/2011 12:00:00 AM,Honolulu,Diesel,4.727,Dollars
+05/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.794,Dollars
+05/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.84,Dollars
+05/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.934,Dollars
+05/01/2011 12:00:00 AM,Wailuku,Diesel,4.958,Dollars
+05/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.326,Dollars
+05/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.425,Dollars
+05/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.526,Dollars
+05/01/2011 12:00:00 AM,Hilo,Diesel,5.04,Dollars
+06/01/2011 12:00:00 AM,US,Gasoline - Regular,3.67,Dollars
+06/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.81,Dollars
+06/01/2011 12:00:00 AM,US,Gasoline - Premium,3.94,Dollars
+06/01/2011 12:00:00 AM,US,Diesel,3.969,Dollars
+06/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.047,Dollars
+06/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.111,Dollars
+06/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.2,Dollars
+06/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.764,Dollars
+06/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,3.935,Dollars
+06/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.031,Dollars
+06/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.119,Dollars
+06/01/2011 12:00:00 AM,Honolulu,Diesel,4.659,Dollars
+06/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.432,Dollars
+06/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.451,Dollars
+06/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.546,Dollars
+06/01/2011 12:00:00 AM,Wailuku,Diesel,4.916,Dollars
+06/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,3.99,Dollars
+06/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.107,Dollars
+06/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.196,Dollars
+06/01/2011 12:00:00 AM,Hilo,Diesel,4.909,Dollars
+07/01/2011 12:00:00 AM,US,Gasoline - Regular,3.654,Dollars
+07/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.779,Dollars
+07/01/2011 12:00:00 AM,US,Gasoline - Premium,3.906,Dollars
+07/01/2011 12:00:00 AM,US,Diesel,3.933,Dollars
+07/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.063,Dollars
+07/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.138,Dollars
+07/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.224,Dollars
+07/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.727,Dollars
+07/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,3.961,Dollars
+07/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.056,Dollars
+07/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.142,Dollars
+07/01/2011 12:00:00 AM,Honolulu,Diesel,4.632,Dollars
+07/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.381,Dollars
+07/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.469,Dollars
+07/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.565,Dollars
+07/01/2011 12:00:00 AM,Wailuku,Diesel,4.863,Dollars
+07/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.052,Dollars
+07/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.153,Dollars
+07/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.253,Dollars
+07/01/2011 12:00:00 AM,Hilo,Diesel,4.848,Dollars
+08/01/2011 12:00:00 AM,US,Gasoline - Regular,3.619,Dollars
+08/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.747,Dollars
+08/01/2011 12:00:00 AM,US,Gasoline - Premium,3.875,Dollars
+08/01/2011 12:00:00 AM,US,Diesel,3.907,Dollars
+08/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.116,Dollars
+08/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.189,Dollars
+08/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.279,Dollars
+08/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.713,Dollars
+08/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,4.011,Dollars
+08/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.108,Dollars
+08/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.195,Dollars
+08/01/2011 12:00:00 AM,Honolulu,Diesel,4.619,Dollars
+08/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.377,Dollars
+08/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.464,Dollars
+08/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.554,Dollars
+08/01/2011 12:00:00 AM,Wailuku,Diesel,4.849,Dollars
+08/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.151,Dollars
+08/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.228,Dollars
+08/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.368,Dollars
+08/01/2011 12:00:00 AM,Hilo,Diesel,4.815,Dollars
+09/01/2011 12:00:00 AM,US,Gasoline - Regular,3.585,Dollars
+09/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.724,Dollars
+09/01/2011 12:00:00 AM,US,Gasoline - Premium,3.853,Dollars
+09/01/2011 12:00:00 AM,US,Diesel,3.887,Dollars
+09/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.19,Dollars
+09/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.267,Dollars
+09/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.358,Dollars
+09/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.752,Dollars
+09/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,4.079,Dollars
+09/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.18,Dollars
+09/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.267,Dollars
+09/01/2011 12:00:00 AM,Honolulu,Diesel,4.633,Dollars
+09/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.391,Dollars
+09/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.479,Dollars
+09/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.572,Dollars
+09/01/2011 12:00:00 AM,Wailuku,Diesel,4.924,Dollars
+09/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.28,Dollars
+09/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.343,Dollars
+09/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.492,Dollars
+09/01/2011 12:00:00 AM,Hilo,Diesel,4.941,Dollars
+10/01/2011 12:00:00 AM,US,Gasoline - Regular,3.434,Dollars
+10/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.575,Dollars
+10/01/2011 12:00:00 AM,US,Gasoline - Premium,3.707,Dollars
+10/01/2011 12:00:00 AM,US,Diesel,3.83,Dollars
+10/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.212,Dollars
+10/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.281,Dollars
+10/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.371,Dollars
+10/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.75,Dollars
+10/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,4.09,Dollars
+10/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.19,Dollars
+10/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.28,Dollars
+10/01/2011 12:00:00 AM,Honolulu,Diesel,4.641,Dollars
+10/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.439,Dollars
+10/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.528,Dollars
+10/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.624,Dollars
+10/01/2011 12:00:00 AM,Wailuku,Diesel,4.939,Dollars
+10/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.328,Dollars
+10/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.393,Dollars
+10/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.54,Dollars
+10/01/2011 12:00:00 AM,Hilo,Diesel,4.917,Dollars
+11/01/2011 12:00:00 AM,US,Gasoline - Regular,3.375,Dollars
+11/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.521,Dollars
+11/01/2011 12:00:00 AM,US,Gasoline - Premium,3.655,Dollars
+11/01/2011 12:00:00 AM,US,Diesel,3.95,Dollars
+11/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.149,Dollars
+11/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.215,Dollars
+11/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.307,Dollars
+11/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.814,Dollars
+11/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,4.006,Dollars
+11/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.106,Dollars
+11/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.196,Dollars
+11/01/2011 12:00:00 AM,Honolulu,Diesel,4.704,Dollars
+11/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.43,Dollars
+11/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.515,Dollars
+11/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.602,Dollars
+11/01/2011 12:00:00 AM,Wailuku,Diesel,4.954,Dollars
+11/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.306,Dollars
+11/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.398,Dollars
+11/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.54,Dollars
+11/01/2011 12:00:00 AM,Hilo,Diesel,5.002,Dollars
+12/01/2011 12:00:00 AM,US,Gasoline - Regular,3.256,Dollars
+12/01/2011 12:00:00 AM,US,Gasoline - Midgrade,3.4,Dollars
+12/01/2011 12:00:00 AM,US,Gasoline - Premium,3.536,Dollars
+12/01/2011 12:00:00 AM,US,Diesel,3.875,Dollars
+12/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.048,Dollars
+12/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.122,Dollars
+12/01/2011 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.208,Dollars
+12/01/2011 12:00:00 AM,State of Hawaii,Diesel,4.788,Dollars
+12/01/2011 12:00:00 AM,Honolulu,Gasoline - Regular,3.906,Dollars
+12/01/2011 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.007,Dollars
+12/01/2011 12:00:00 AM,Honolulu,Gasoline - Premium,4.096,Dollars
+12/01/2011 12:00:00 AM,Honolulu,Diesel,4.684,Dollars
+12/01/2011 12:00:00 AM,Wailuku,Gasoline - Regular,4.37,Dollars
+12/01/2011 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.455,Dollars
+12/01/2011 12:00:00 AM,Wailuku,Gasoline - Premium,4.527,Dollars
+12/01/2011 12:00:00 AM,Wailuku,Diesel,4.942,Dollars
+12/01/2011 12:00:00 AM,Hilo,Gasoline - Regular,4.225,Dollars
+12/01/2011 12:00:00 AM,Hilo,Gasoline - Midgrade,4.324,Dollars
+12/01/2011 12:00:00 AM,Hilo,Gasoline - Premium,4.44,Dollars
+12/01/2011 12:00:00 AM,Hilo,Diesel,4.904,Dollars
+01/01/2012 12:00:00 AM,US,Gasoline - Regular,3.376,Dollars
+01/01/2012 12:00:00 AM,US,Gasoline - Midgrade,3.51,Dollars
+01/01/2012 12:00:00 AM,US,Gasoline - Premium,3.647,Dollars
+01/01/2012 12:00:00 AM,US,Diesel,3.86,Dollars
+01/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.061,Dollars
+01/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.136,Dollars
+01/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.226,Dollars
+01/01/2012 12:00:00 AM,State of Hawaii,Diesel,4.786,Dollars
+01/01/2012 12:00:00 AM,Honolulu,Gasoline - Regular,3.917,Dollars
+01/01/2012 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.017,Dollars
+01/01/2012 12:00:00 AM,Honolulu,Gasoline - Premium,4.106,Dollars
+01/01/2012 12:00:00 AM,Honolulu,Diesel,4.677,Dollars
+01/01/2012 12:00:00 AM,Wailuku,Gasoline - Regular,4.375,Dollars
+01/01/2012 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.465,Dollars
+01/01/2012 12:00:00 AM,Wailuku,Gasoline - Premium,4.549,Dollars
+01/01/2012 12:00:00 AM,Wailuku,Diesel,4.981,Dollars
+01/01/2012 12:00:00 AM,Hilo,Gasoline - Regular,4.24,Dollars
+01/01/2012 12:00:00 AM,Hilo,Gasoline - Midgrade,4.333,Dollars
+01/01/2012 12:00:00 AM,Hilo,Gasoline - Premium,4.444,Dollars
+01/01/2012 12:00:00 AM,Hilo,Diesel,4.891,Dollars
+02/01/2012 12:00:00 AM,US,Gasoline - Regular,3.559,Dollars
+02/01/2012 12:00:00 AM,US,Gasoline - Midgrade,3.691,Dollars
+02/01/2012 12:00:00 AM,US,Gasoline - Premium,3.825,Dollars
+02/01/2012 12:00:00 AM,US,Diesel,3.945,Dollars
+02/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.226,Dollars
+02/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.302,Dollars
+02/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.395,Dollars
+02/01/2012 12:00:00 AM,State of Hawaii,Diesel,4.816,Dollars
+02/01/2012 12:00:00 AM,Honolulu,Gasoline - Regular,4.101,Dollars
+02/01/2012 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.201,Dollars
+02/01/2012 12:00:00 AM,Honolulu,Gasoline - Premium,4.29,Dollars
+02/01/2012 12:00:00 AM,Honolulu,Diesel,4.688,Dollars
+02/01/2012 12:00:00 AM,Wailuku,Gasoline - Regular,4.44,Dollars
+02/01/2012 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.526,Dollars
+02/01/2012 12:00:00 AM,Wailuku,Gasoline - Premium,4.614,Dollars
+02/01/2012 12:00:00 AM,Wailuku,Diesel,5.022,Dollars
+02/01/2012 12:00:00 AM,Hilo,Gasoline - Regular,4.411,Dollars
+02/01/2012 12:00:00 AM,Hilo,Gasoline - Midgrade,4.514,Dollars
+02/01/2012 12:00:00 AM,Hilo,Gasoline - Premium,4.615,Dollars
+02/01/2012 12:00:00 AM,Hilo,Diesel,4.946,Dollars
+03/01/2012 12:00:00 AM,US,Gasoline - Regular,3.835,Dollars
+03/01/2012 12:00:00 AM,US,Gasoline - Midgrade,3.978,Dollars
+03/01/2012 12:00:00 AM,US,Gasoline - Premium,4.11,Dollars
+03/01/2012 12:00:00 AM,US,Diesel,4.125,Dollars
+03/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.474,Dollars
+03/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.561,Dollars
+03/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.656,Dollars
+03/01/2012 12:00:00 AM,State of Hawaii,Diesel,4.962,Dollars
+03/01/2012 12:00:00 AM,Honolulu,Gasoline - Regular,4.355,Dollars
+03/01/2012 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.455,Dollars
+03/01/2012 12:00:00 AM,Honolulu,Gasoline - Premium,4.548,Dollars
+03/01/2012 12:00:00 AM,Honolulu,Diesel,4.792,Dollars
+03/01/2012 12:00:00 AM,Wailuku,Gasoline - Regular,4.615,Dollars
+03/01/2012 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.705,Dollars
+03/01/2012 12:00:00 AM,Wailuku,Gasoline - Premium,4.801,Dollars
+03/01/2012 12:00:00 AM,Wailuku,Diesel,5.13,Dollars
+03/01/2012 12:00:00 AM,Hilo,Gasoline - Regular,4.639,Dollars
+03/01/2012 12:00:00 AM,Hilo,Gasoline - Midgrade,4.717,Dollars
+03/01/2012 12:00:00 AM,Hilo,Gasoline - Premium,4.827,Dollars
+03/01/2012 12:00:00 AM,Hilo,Diesel,5.08,Dollars
+04/01/2012 12:00:00 AM,US,Gasoline - Regular,3.886,Dollars
+04/01/2012 12:00:00 AM,US,Gasoline - Midgrade,4.024,Dollars
+04/01/2012 12:00:00 AM,US,Gasoline - Premium,4.157,Dollars
+04/01/2012 12:00:00 AM,US,Diesel,4.137,Dollars
+04/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.607,Dollars
+04/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.694,Dollars
+04/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.787,Dollars
+04/01/2012 12:00:00 AM,State of Hawaii,Diesel,4.996,Dollars
+04/01/2012 12:00:00 AM,Honolulu,Gasoline - Regular,4.473,Dollars
+04/01/2012 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.574,Dollars
+04/01/2012 12:00:00 AM,Honolulu,Gasoline - Premium,4.666,Dollars
+04/01/2012 12:00:00 AM,Honolulu,Diesel,4.831,Dollars
+04/01/2012 12:00:00 AM,Wailuku,Gasoline - Regular,4.861,Dollars
+04/01/2012 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.95,Dollars
+04/01/2012 12:00:00 AM,Wailuku,Gasoline - Premium,5.04,Dollars
+04/01/2012 12:00:00 AM,Wailuku,Diesel,5.149,Dollars
+04/01/2012 12:00:00 AM,Hilo,Gasoline - Regular,4.746,Dollars
+04/01/2012 12:00:00 AM,Hilo,Gasoline - Midgrade,4.837,Dollars
+04/01/2012 12:00:00 AM,Hilo,Gasoline - Premium,4.94,Dollars
+04/01/2012 12:00:00 AM,Hilo,Diesel,5.151,Dollars
+05/01/2012 12:00:00 AM,US,Gasoline - Regular,3.711,Dollars
+05/01/2012 12:00:00 AM,US,Gasoline - Midgrade,3.871,Dollars
+05/01/2012 12:00:00 AM,US,Gasoline - Premium,4.009,Dollars
+05/01/2012 12:00:00 AM,US,Diesel,4.017,Dollars
+05/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.547,Dollars
+05/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.627,Dollars
+05/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.714,Dollars
+05/01/2012 12:00:00 AM,State of Hawaii,Diesel,4.974,Dollars
+05/01/2012 12:00:00 AM,Honolulu,Gasoline - Regular,4.4,Dollars
+05/01/2012 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.502,Dollars
+05/01/2012 12:00:00 AM,Honolulu,Gasoline - Premium,4.593,Dollars
+05/01/2012 12:00:00 AM,Honolulu,Diesel,4.819,Dollars
+05/01/2012 12:00:00 AM,Wailuku,Gasoline - Regular,4.891,Dollars
+05/01/2012 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.978,Dollars
+05/01/2012 12:00:00 AM,Wailuku,Gasoline - Premium,5.067,Dollars
+05/01/2012 12:00:00 AM,Wailuku,Diesel,5.132,Dollars
+05/01/2012 12:00:00 AM,Hilo,Gasoline - Regular,4.686,Dollars
+05/01/2012 12:00:00 AM,Hilo,Gasoline - Midgrade,4.778,Dollars
+05/01/2012 12:00:00 AM,Hilo,Gasoline - Premium,4.879,Dollars
+05/01/2012 12:00:00 AM,Hilo,Diesel,5.104,Dollars
+06/01/2012 12:00:00 AM,US,Gasoline - Regular,3.489,Dollars
+06/01/2012 12:00:00 AM,US,Gasoline - Midgrade,3.654,Dollars
+06/01/2012 12:00:00 AM,US,Gasoline - Premium,3.789,Dollars
+06/01/2012 12:00:00 AM,US,Diesel,3.782,Dollars
+06/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.408,Dollars
+06/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.501,Dollars
+06/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.587,Dollars
+06/01/2012 12:00:00 AM,State of Hawaii,Diesel,4.846,Dollars
+06/01/2012 12:00:00 AM,Honolulu,Gasoline - Regular,4.267,Dollars
+06/01/2012 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.372,Dollars
+06/01/2012 12:00:00 AM,Honolulu,Gasoline - Premium,4.461,Dollars
+06/01/2012 12:00:00 AM,Honolulu,Diesel,4.755,Dollars
+06/01/2012 12:00:00 AM,Wailuku,Gasoline - Regular,4.82,Dollars
+06/01/2012 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.906,Dollars
+06/01/2012 12:00:00 AM,Wailuku,Gasoline - Premium,4.996,Dollars
+06/01/2012 12:00:00 AM,Wailuku,Diesel,4.936,Dollars
+06/01/2012 12:00:00 AM,Hilo,Gasoline - Regular,4.475,Dollars
+06/01/2012 12:00:00 AM,Hilo,Gasoline - Midgrade,4.577,Dollars
+06/01/2012 12:00:00 AM,Hilo,Gasoline - Premium,4.672,Dollars
+06/01/2012 12:00:00 AM,Hilo,Diesel,4.886,Dollars
+07/01/2012 12:00:00 AM,US,Gasoline - Regular,3.356,Dollars
+07/01/2012 12:00:00 AM,US,Gasoline - Midgrade,3.513,Dollars
+07/01/2012 12:00:00 AM,US,Gasoline - Premium,3.648,Dollars
+07/01/2012 12:00:00 AM,US,Diesel,3.664,Dollars
+07/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Regular,4.237,Dollars
+07/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Midgrade,4.339,Dollars
+07/01/2012 12:00:00 AM,State of Hawaii,Gasoline - Premium,4.421,Dollars
+07/01/2012 12:00:00 AM,State of Hawaii,Diesel,4.749,Dollars
+07/01/2012 12:00:00 AM,Honolulu,Gasoline - Regular,4.152,Dollars
+07/01/2012 12:00:00 AM,Honolulu,Gasoline - Midgrade,4.258,Dollars
+07/01/2012 12:00:00 AM,Honolulu,Gasoline - Premium,4.344,Dollars
+07/01/2012 12:00:00 AM,Honolulu,Diesel,4.727,Dollars
+07/01/2012 12:00:00 AM,Wailuku,Gasoline - Regular,4.517,Dollars
+07/01/2012 12:00:00 AM,Wailuku,Gasoline - Midgrade,4.616,Dollars
+07/01/2012 12:00:00 AM,Wailuku,Gasoline - Premium,4.699,Dollars
+07/01/2012 12:00:00 AM,Wailuku,Diesel,4.728,Dollars
+07/01/2012 12:00:00 AM,Hilo,Gasoline - Regular,4.198,Dollars
+07/01/2012 12:00:00 AM,Hilo,Gasoline - Midgrade,4.297,Dollars
+07/01/2012 12:00:00 AM,Hilo,Gasoline - Premium,4.383,Dollars
+07/01/2012 12:00:00 AM,Hilo,Diesel,4.723,Dollars
